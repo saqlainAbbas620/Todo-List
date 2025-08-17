@@ -2,48 +2,48 @@ TODO List App with React and Tailwind CSS
 A clean, responsive TODO list application built with React and styled with Tailwind CSS. This application allows users to add, track, and manage their tasks with a beautiful user interface.
 
 Features
-Add Tasks: Easily add new tasks by typing and pressing Enter or clicking the Add button
+  Add Tasks: Easily add new tasks by typing and pressing Enter or clicking the Add button
 
-Task Status: Toggle tasks between "Pending" and "Done" states
+  Task Status: Toggle tasks between "Pending" and "Done" states
 
 Visual Indicators:
 
-Pending tasks are highlighted in yellow
+  Pending tasks are highlighted in yellow
 
-Completed tasks show with a line-through and green indicator
+  Completed tasks show with a line-through and green indicator
 
 Task Management:
 
-Remove tasks you no longer need
+  Remove tasks you no longer need
 
-Clear visual distinction between different task states
+  Clear visual distinction between different task states
 
-Responsive Design: Works perfectly on both mobile and desktop devices
+  Responsive Design: Works perfectly on both mobile and desktop devices
 
 Modern UI:
 
-Clean gradient background
+  Clean gradient background
 
-Card-based layout with subtle shadows
+  Card-based layout with subtle shadows
 
-Thoughtful color scheme and spacing
+  Thoughtful color scheme and spacing
 
 Technical Details
-Built with React (using functional components and hooks)
+  Built with React (using functional components and hooks)
 
-Styled with Tailwind CSS for utility-first styling
+  Styled with Tailwind CSS for utility-first styling
 
-State management using React's useState hook
+  State management using React's useState hook
 
-Keyboard support (press Enter to add tasks)
+  Keyboard support (press Enter to add tasks)
 
-Fully responsive design
+  Fully responsive design
 
 How to Use
-Type your task in the input field
+  Type your task in the input field
 
-Press Enter or click "Add" to add it to your list
+  Press Enter or click "Add" to add it to your list
 
-Click "Pending" to mark as complete (changes to "Done")
+  Click "Pending" to mark as complete (changes to "Done")
 
-Click "Remove" to delete tasks you no longer need
+  Click "Remove" to delete tasks you no longer need
